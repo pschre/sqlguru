@@ -1,0 +1,2 @@
+# sqlguru
+sql stuff
